@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1686040183 source:c:\users\alexandra\onedrive\desktop\tetris-final\src\cell.cpp
+	"Cell.h"
+
+1686040183 c:\users\alexandra\onedrive\desktop\tetris-final\include\cell.h
+	<iostream>
+
+1686040183 source:c:\users\alexandra\onedrive\desktop\tetris-final\src\piesa.cpp
+	"Piesa.h"
+
+1686040183 c:\users\alexandra\onedrive\desktop\tetris-final\include\piesa.h
+	"Cell.h"
+	<vector>
+	<stdlib.h>
+	<time.h>
+
+1686036402 source:c:\users\alexandra\onedrive\desktop\tetris-final\main.cpp
+	"Cell.h"
+	"Piesa.h"
+	"Tabla.h"
+	"Joc.h"
+
+1686040244 c:\users\alexandra\onedrive\desktop\tetris-final\include\tabla.h
+	"Piesa.h"
+	<vector>
+	<algorithm>
+
+1686040244 c:\users\alexandra\onedrive\desktop\tetris-final\include\joc.h
+	<iostream>
+	<vector>
+	<algorithm>
+	"windows.h"
+	"Cell.h"
+	"Piesa.h"
+	"Tabla.h"
+
+1686037964 source:c:\users\alexandra\onedrive\desktop\tetris-final\src\tabla.cpp
+	"Tabla.h"
+
+1686040244 source:c:\users\alexandra\onedrive\desktop\tetris-final\src\joc.cpp
+	"joc.h"
+
+1686036402 source:c:\users\alexandra\onedrive\desktop\proiect poo\tetris-final\main.cpp
+	"Cell.h"
+	"Piesa.h"
+	"Tabla.h"
+	"Joc.h"
+
+1686071795 c:\users\alexandra\onedrive\desktop\proiect poo\tetris-final\include\cell.h
+	<iostream>
+
+1686040183 c:\users\alexandra\onedrive\desktop\proiect poo\tetris-final\include\piesa.h
+	"Cell.h"
+	<vector>
+	<stdlib.h>
+	<time.h>
+
+1686040244 c:\users\alexandra\onedrive\desktop\proiect poo\tetris-final\include\tabla.h
+	"Piesa.h"
+	<vector>
+	<algorithm>
+
+1686040244 c:\users\alexandra\onedrive\desktop\proiect poo\tetris-final\include\joc.h
+	<iostream>
+	<vector>
+	<algorithm>
+	"windows.h"
+	"Cell.h"
+	"Piesa.h"
+	"Tabla.h"
+
+1686071803 source:c:\users\alexandra\onedrive\desktop\proiect poo\tetris-final\src\cell.cpp
+	"Cell.h"
+
+1686040244 source:c:\users\alexandra\onedrive\desktop\proiect poo\tetris-final\src\joc.cpp
+	"joc.h"
+
+1686040183 source:c:\users\alexandra\onedrive\desktop\proiect poo\tetris-final\src\piesa.cpp
+	"Piesa.h"
+
+1686037964 source:c:\users\alexandra\onedrive\desktop\proiect poo\tetris-final\src\tabla.cpp
+	"Tabla.h"
+
